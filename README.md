@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Chetan-Poudel-2031/Chetan-Poudel-2031/blob/main/Chetan%20poudel%20banner.png" alt="Chetan's Banner">
+    <img src="https://github.com/Chetan-Poudel-2031/Chetan-Poudel-2031/blob/main/chetan%20banner.png" alt="Chetan's Banner">
 </div>
 <h1 align="center">Hi 👋, I'm Chetan Poudel</h1>
 <h3 align="center">Currently studying computer engineering, only 15 years old(2025).</h3>
